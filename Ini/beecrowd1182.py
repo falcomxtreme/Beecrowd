@@ -5,10 +5,9 @@ resultado = 0
 
 for i in range(12):
     Linha = []
-    M.append(Linha)
-    
     for j in range(12):
      Linha.append(float(input("")))
+    M.append(Linha)    
 
 if T=="S":
    for i in range(12):
